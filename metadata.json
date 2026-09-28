@@ -1,0 +1,6 @@
+{
+  "name": "ANBK Informatika SMPN 7 Kisaran",
+  "description": "Aplikasi Ujian Berbasis Komputer (ANBK) Mata Pelajaran Informatika Kelas VII UPTD SMP Negeri 7 Kisaran oleh Eksa Yudika Sirait dengan sistem anti-kecurangan, integrasi Google Docs, Spreadsheet, dan Google Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
